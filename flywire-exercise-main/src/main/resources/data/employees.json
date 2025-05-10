@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "firstName": "John",
+        "lastName": "Doe",
+        "position": "Manager",
+        "dateHired": "2023-01-15",
+        "managerId": null
+    },
+    {
+        "id": "2",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "position": "Developer",
+        "dateHired": "2023-03-20",
+        "managerId": "1"
+    },
+    {
+        "id": "3",
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "position": "Developer",
+        "dateHired": "2023-02-10",
+        "managerId": "1"
+    }
+]
